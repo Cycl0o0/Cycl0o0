@@ -6,6 +6,7 @@
 - 🚹 Pronouns: He/Him
 - 🍷 Location: Bordeaux, France
 - 👨‍💻 Loved Languages: Rust, Ruby, Java, C(++/#)
+- 👨‍ Must have code: MVC architecture required for all my projects
 
 ## Contact:
 - 📧 Email: admin{at}cyclonetworks.com
